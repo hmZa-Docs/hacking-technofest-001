@@ -1,0 +1,17 @@
+{
+    "urls": [
+      "https://www.teknofestpakistan.com/wp-content/uploads/wc-logs/",
+      "https://www.teknofestpakistan.com/wp-content/uploads/woocommerce_transient_files/",
+      "https://www.teknofestpakistan.com/wp-content/uploads/woocommerce_uploads/",
+      "https://www.teknofestpakistan.com/wp-admin/",
+      "https://www.teknofestpakistan.com/wp-admin/admin-ajax.php",
+      "https://www.teknofestpakistan.com/wp-sitemap.xml",
+      "https://www.teknofestpakistan.com/xmlrpc.php",
+      "https://www.teknofestpakistan.com/wp-admin/upgrade.php",
+      "https://www.teknofestpakistan.com/wp-admin/import.php",
+      "https://www.teknofestpakistan.com/wp-admin/update-core.php",
+      "https://www.teknofestpakistan.com/license.txt",
+      "https://www.teknofestpakistan.com/wp-admin/install.php"
+    ]
+  }
+  
